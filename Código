@@ -168,3 +168,19 @@
         .service.open p {
             display: block;
         }
+
+        /* Sobre */
+        .about {
+            background-color: #003366;
+            padding: 30px 0;
+            text-align: center;
+            color: #ffffff;
+        }
+        .about h2 {
+            font-size: 22px;
+            margin-bottom: 15px;
+        }
+        .about p {
+            margin-top: 10px;
+        }
+
