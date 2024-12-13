@@ -258,4 +258,20 @@
         }
     </style>
 </head>
+<body>
+    <!-- Navbar -->
+    <header class="navbar">
+        <div class="container">
+            <img src="https://cimatecjr.com.br/assets/img/logo2.png" alt="Logo" style="width: 170px; height: 70px;">
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="#home">Início</a></li>
+                    <li><a href="#services">Serviços</a></li>
+                    <li><a href="#about">Sobre</a></li>
+                    <li><a href="#contact">Contato</a></li>
+                </ul>
+            </nav>
+            <a href="#contact" class="btn-contact">Fale Conosco</a>
+        </div>
+    </header>
 
