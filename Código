@@ -275,3 +275,13 @@
         </div>
     </header>
 
+    <!-- Carrossel de Imagens -->
+    <section class="carousel" id="carousel">
+        <img src="https://cimatecjr.com.br/upload/banner/DlWfDrcEnKo0xUy8KB04xhius6jszGSq8ue7b9MC.jpg" alt="Imagem 1">
+        <img src="https://cimatecjr.com.br/upload/banner/hlSEYKe6y5aQJvP0V2mbktVWznB5j5rwIlLVDM2r.jpg" alt="Imagem 2">
+        <div class="carousel-buttons">
+            <button onclick="previousSlide()">&#10094;</button>
+            <button onclick="nextSlide()">&#10095;</button>
+        </div> 
+    </section>
+
