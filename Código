@@ -355,3 +355,18 @@
         </div>
     </section>
 
+    <!-- Seção de Depoimentos -->
+    <section class="testimonials">
+        <div class="container">
+            <h2>Depoimentos</h2>
+            <div class="testimonial">
+                <p>"Ajudaram a transformar nossa ideia em realidade com um sistema eficiente e personalizado."</p>
+                <span>- Cliente Satisfeito</span>
+            </div>
+            <div class="testimonial">
+                <p>"Serviço impecável, sempre prontos para nos atender e resolver nossos problemas."</p>
+                <span>- Outro Cliente Satisfeito</span>
+            </div>
+        </div>
+    </section>
+
