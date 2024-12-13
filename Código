@@ -235,3 +235,27 @@
             font-size: 14px;
         }
 
+        /* Responsividade para tablets e desktops */
+        @media (min-width: 768px) {
+            .navbar .container {
+                flex-direction: row;
+                justify-content: space-between;
+            }
+            .nav-links {
+                flex-direction: row;
+            }
+            .services-list {
+                flex-direction: row;
+                justify-content: space-between;
+                gap: 30px;
+            }
+            .banner h2 {
+                font-size: 36px;
+            }
+            .banner p {
+                font-size: 18px;
+            }
+        }
+    </style>
+</head>
+
