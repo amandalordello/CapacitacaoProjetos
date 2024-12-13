@@ -339,3 +339,11 @@
         </div>
     </section>
 
+    <script>
+        // Função para alternar a visibilidade dos detalhes dos serviços
+        function toggleDetail(element) {
+            // Alterna o 'open' para mostrar/ocultar o <p>
+            element.classList.toggle('open');
+        }
+    </script>
+
