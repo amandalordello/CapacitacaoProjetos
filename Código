@@ -347,3 +347,11 @@
         }
     </script>
 
+    <!-- Seção Sobre -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2>Sobre Nós</h2>
+            <p>Somos uma empresa de consultoria focada em soluções tecnológicas que impulsionam o crescimento e a eficiência dos nossos clientes.</p>
+        </div>
+    </section>
+
