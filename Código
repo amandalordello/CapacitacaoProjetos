@@ -226,3 +226,12 @@
             cursor: pointer;
         }
 
+        /* Footer */
+        footer {
+            background-color: #003366;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            font-size: 14px;
+        }
+
