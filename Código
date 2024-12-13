@@ -309,3 +309,12 @@
         showSlide(currentSlide);
     </script>
 
+    <!-- Banner Principal -->
+    <section id="home" class="banner">
+        <div class="container">
+            <h2>Consultoria e Soluções Tecnológicas</h2>
+            <p>Oferecemos serviços especializados para ajudar sua empresa a alcançar novos patamares.</p>
+            <a href="#services" class="btn-main">Nossos Serviços</a>
+        </div>
+    </section>
+
