@@ -370,3 +370,16 @@
         </div>
     </section>
 
+    <!-- Seção de Contato -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2>Entre em Contato</h2>
+            <form>
+                <input type="text" placeholder="Nome" required>
+                <input type="email" placeholder="E-mail" required>
+                <textarea placeholder="Mensagem" required></textarea>
+                <button type="submit" class="btn-submit">Enviar</button>
+            </form>
+        </div>
+    </section>
+
