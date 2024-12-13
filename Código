@@ -318,3 +318,24 @@
         </div>
     </section>
 
+    <!-- Seção de Serviços -->
+    <section id="services" class="services">
+        <div class="container">
+            <h2>Serviços</h2>
+            <div class="services-list">
+                <div class="service" onclick="toggleDetail(this)">
+                    <h3>Desenvolvimento Web</h3>
+                    <p>Soluções completas e personalizadas para o seu site ou sistema.</p>
+                </div>
+                <div class="service" onclick="toggleDetail(this)">
+                    <h3>Consultoria em TI</h3>
+                    <p>Estratégias para otimizar e modernizar a tecnologia da sua empresa.</p>
+                </div>
+                <div class="service" onclick="toggleDetail(this)">
+                    <h3>Suporte Técnico</h3>
+                    <p>Suporte confiável para manter suas operações em pleno funcionamento.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
